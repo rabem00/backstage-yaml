@@ -7,8 +7,8 @@ metadata:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: rabem00/backstage-yaml
     tags:
-        - python
         - devcontainers
+        - python
     links:
         - url: https://admin.example-org.com
           title: Admin Dashboard
@@ -19,11 +19,6 @@ spec:
     lifecycle: production
     owner: idpadmins
     system: project-x
-    coder:
-      templateName: "devcontainers"
-      mode: auto
-      params:
-        repo: "custom"
 
 ---
 apiVersion: backstage.io/v1alpha1
