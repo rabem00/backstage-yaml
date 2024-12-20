@@ -18,6 +18,11 @@ spec:
     lifecycle: production
     owner: idpadmins
     system: project-x
+    coder:
+      templateName: "devcontainers"
+      mode: auto
+      params:
+        repo: "custom"
 
 ---
 apiVersion: backstage.io/v1alpha1
