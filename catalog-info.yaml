@@ -8,6 +8,7 @@ metadata:
         github.com/project-slug: rabem00/backstage-yaml
     tags:
         - python
+        - devcontainers
     links:
         - url: https://admin.example-org.com
           title: Admin Dashboard
