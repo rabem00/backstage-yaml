@@ -5,7 +5,7 @@ metadata:
     description: A Python Library
     annotations:
         backstage.io/techdocs-ref: dir:.
-        github.com/project-slug: backstage-yaml/CI
+        github.com/project-slug: rabem00/backstage-yaml
     tags:
         - python
     links:
